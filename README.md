@@ -1,4 +1,4 @@
-# Solar Cell Quality Inspection using AI  
+# Solar Cell Quality Inspection
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python">
   <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green">
